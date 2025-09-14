@@ -5,6 +5,13 @@ An interactive multi-agent chatbot built with **Chainlit** and **Google Gemini A
 
 ---
 
+## Live Demo
+
+Try the Travel Assistant Chatbot live on Hugging Face Spaces:  
+[Travel Assistant Chatbot](https://huggingface.co/spaces/zeeshan353/Travel_Assistant)
+
+---
+
 ## Features
 
 - **Triage Agent:** Categorizes user queries into Hotels, Transport, or Food.  
